@@ -13,7 +13,12 @@ Full-stack developer based in Kitchener-Waterloo, Ontario. I build web platforms
 Python, JavaScript, HTML/CSS. Building with React, Node.js, and applied AI/ML.
 
 ## Background
-Biomedical Sciences student at the University of Waterloo, software and web development training, and a working business shipping real client work across Ontario and Quebec, in English and French.
+
+Full-stack software and web developer, and a Biomedical Sciences student at the University of Waterloo.
+
+Previously an AIML Analyst at Apple, training Apple's Siri AI and annotating images.
+
+Through Sheldon Tech Solutions, I ship real client work across Ontario and Quebec, in English and French.
 
 ## Get in touch
 - Email: info@sheldontechsolutions.com

@@ -1,25 +1,16 @@
-# Hi, I'm Sheldon Mbuh
+# Sheldon Mbuh
 
-**Founder & CTO, Sheldon Tech Solutions**
+Founder of **Sheldon Tech Solutions** and a bilingual (English/French) developer based in Kitchener-Waterloo, Ontario. My work spans small-business websites, local search, and IT support. I use this portfolio to document how I build and test web and data tools.
 
-Full-stack developer based in Kitchener-Waterloo, Ontario. I build web platforms, AI tools, and the business systems behind them, and I run Sheldon Tech Solutions, where we help small businesses get found, get customers, and get their tech handled.
+## Selected projects
 
-## What I'm building
-- **EcoNode** - AI orchard-pruning guidance: computer vision (YOLOv8) with augmented reality, so a human pruner sees which branches to cut. Winner, University of Waterloo Velocity Agri-Innovation Challenge, March 2026.
-- **Sheldon Tech CRM** - a client and pipeline system for service businesses, in active development.
-- A growing set of full-stack projects, from fundamentals up, documented as I build them.
+| Project | Focus |
+| --- | --- |
+| [Sheldon Tech Solutions](https://github.com/sheldonmbuh/sheldon-tech-solutions) | Web development, local SEO, and IT support for small businesses |
+| [EcoNode](https://github.com/sheldonmbuh/econode) | An early-stage orchard-pruning guidance project exploring computer vision and augmented reality |
+| [Red River Fence & Deck](https://github.com/sheldonmbuh/red-river-fencing) | Client case study for a Waterloo Region fence and deck contractor |
+| [Local business landing page](https://github.com/sheldonmbuh/local-business-landing-page) | Standalone frontend demonstration of a contractor landing page |
 
-## Core stack
-Python, JavaScript, HTML/CSS. Building with React, Node.js, and applied AI/ML.
+I work with JavaScript, HTML/CSS, Python, and WordPress.
 
-## Background
-
-Full-stack software and web developer, and a Biomedical Sciences student at the University of Waterloo.
-
-Previously an AIML Analyst at Apple, training Apple's Siri AI and annotating images.
-
-Through Sheldon Tech Solutions, I ship real client work across Ontario and Quebec, in English and French.
-
-## Get in touch
-- Email: info@sheldontechsolutions.com
-- LinkedIn: https://www.linkedin.com/in/sheldon-mbuh/
+[Business website](https://sheldontechsolutions.com) · [LinkedIn](https://www.linkedin.com/in/sheldon-mbuh/) · [Business email](mailto:info@sheldontechsolutions.com)

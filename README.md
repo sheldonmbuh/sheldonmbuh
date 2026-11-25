@@ -1,10 +1,10 @@
 # Sheldon Mbuh
 
-I’m the founder and CTO of **Sheldon Tech Solutions** and a co-founder of **EcoNode**. I’m based in Kitchener–Waterloo, Ontario, and build in English and French.
+I’m the founder and CTO of **Sheldon Tech Solutions** and a co-founder of **EcoNode**, based in Kitchener–Waterloo, Ontario. I work in English and French.
 
-I lead the technical work at Sheldon Tech Solutions. My work spans small-business websites, local search, and IT support. I use this portfolio to show how I build and test web and data tools.
+At **Sheldon Tech Solutions**, I build websites that help small businesses turn visits into calls and quote requests. I help customers find those businesses through local SEO, Google Ads, and AI search visibility.
 
-With my EcoNode co-founders, I’m working on offline computer-vision guidance for orchard pruning, with AR glasses as the intended interface.
+At **EcoNode**, I work on engineering and product with my co-founders. We’re building offline computer-vision guidance for apple-orchard pruning, with the goal of putting useful cues in front of growers through AR glasses. The idea took shape during a Velocity innovation challenge at the University of Waterloo.
 
 ## Selected projects
 

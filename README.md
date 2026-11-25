@@ -2,7 +2,9 @@
 
 I’m the founder and CTO of **Sheldon Tech Solutions** and a co-founder of **EcoNode**. I’m based in Kitchener–Waterloo, Ontario, and build in English and French.
 
-At Sheldon Tech Solutions, I lead the technical work behind websites, local search, and IT systems for small businesses. With my EcoNode co-founders, I’m working on offline computer-vision guidance for orchard pruning, with AR glasses as the intended interface.
+I lead the technical work at Sheldon Tech Solutions. My work spans small-business websites, local search, and IT support. I use this portfolio to show how I build and test web and data tools.
+
+With my EcoNode co-founders, I’m working on offline computer-vision guidance for orchard pruning, with AR glasses as the intended interface.
 
 ## Selected projects
 
